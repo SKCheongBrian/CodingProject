@@ -1,3 +1,4 @@
+//hi jia yi
 public class Sudoku
 {
     public static boolean usedInRow(int[][] grid, int row, int num)
